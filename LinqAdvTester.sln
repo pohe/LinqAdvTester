@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqAdvTester", "LinqAdvTester\LinqAdvTester.csproj", "{FA40C289-5B87-458B-999B-903F1116694F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA40C289-5B87-458B-999B-903F1116694F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA40C289-5B87-458B-999B-903F1116694F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA40C289-5B87-458B-999B-903F1116694F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA40C289-5B87-458B-999B-903F1116694F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B19B74F-A7EF-48E8-B1FD-D7F55EBC19E2}
+	EndGlobalSection
+EndGlobal
